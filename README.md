@@ -7,4 +7,4 @@
 📫 How to reach me gulernilay088@gmail.com
 
 Connect with me:
-[https://www.linkedin.com/in/şamil-nugay-1044b0166/](https://www.linkedin.com/in/nilay-g%C3%BCler-484a6b179/)
+(https://www.linkedin.com/in/nilay-g%C3%BCler-484a6b179/)
