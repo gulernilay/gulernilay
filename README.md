@@ -1,11 +1,11 @@
 ## Hi there ,I'm Nilay 👋
 
 🌱 I’m currently focused on:
-- Developing my skills in **Python**, **Data Analysis**, and **Data Modeling**
-- Exploring **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for insightful data visualization
-- Practicing **SQL** and **Excel** for structured data manipulation
-- Learning **Machine Learning fundamentals** with **Scikit-learn**
-- Building small projects to apply statistical and analytical techniques
+- Leveraging **Python** for advanced **Data Analysis**, **Machine Learning**, and **AI applications**
+- Utilizing **Pandas**, **NumPy**, and **Scikit-learn** to design efficient pipelines and deploy ML models
+- Creating data visualizations with **Matplotlib**, **Seaborn**, and **Plotly** to derive actionable insights
+- Applying **SQL** and **Excel** for optimized **data extraction**, **transformation**, and **reporting**
+- Developing end-to-end projects that combine **statistical modeling**, **predictive analytics**, and **AI techniques**
 
 
 👯 I’m open to collaborating on real-world data problems and beginner-friendly data science projects.  
@@ -24,8 +24,12 @@
   <img src="https://img.shields.io/badge/Seaborn-3B4D59?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </p>
  
